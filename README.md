@@ -23,3 +23,7 @@ into `src/solver/macroTable.js`. Every solution is replayed on a simulated cube 
 ## Parity formulas (verified in simulation)
 - OLL parity: `Rw U2 x Rw U2 Rw U2 Rw' U2 Lw U2 Rw' U2 Rw U2 Rw' U2 Rw'`
 - PLL parity: `2R2 U2 2R2 Uw2 2R2 Uw2`
+
+
+## Check out !!
+- https://cube-solver-beige.vercel.app/#/solution
